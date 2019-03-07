@@ -55,7 +55,7 @@ public class BasicTest extends MyApplicationTestCase {
         THEN("Something happens as expected");
         webAction(Constants.SEARCH_INPUT);
         webElementExists(Constants.APPLY_ANCHOR);
-
+//git test
     }
 
 }
