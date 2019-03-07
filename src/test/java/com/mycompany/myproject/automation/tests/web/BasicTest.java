@@ -56,6 +56,10 @@ public class BasicTest extends MyApplicationTestCase {
         webAction(Constants.SEARCH_INPUT);
         webElementExists(Constants.APPLY_ANCHOR);
 
+        // this is a test comment to check the merge function of Git and Git hub
+
+        //this is a second line Harry added to
+
     }
 
 }
