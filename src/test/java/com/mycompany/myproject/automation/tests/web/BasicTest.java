@@ -56,6 +56,8 @@ public class BasicTest extends MyApplicationTestCase {
         webAction(Constants.SEARCH_INPUT);
         webElementExists(Constants.APPLY_ANCHOR);
 
+        // this is testing -- added
+        // this is a second change
     }
 
 }
