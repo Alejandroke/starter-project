@@ -58,6 +58,8 @@ public class BasicTest extends MyApplicationTestCase {
 
         // this is a test comment to check the merge function of Git and Git hub
 
+        //this is a second line Harry added to
+
     }
 
 }
